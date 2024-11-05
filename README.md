@@ -1,5 +1,5 @@
 LITA DATA ANALYSIS CLASS PROJECT
-Project title:
+Project title:Sales performance analysis for a retail store
 Project overview
 this data analysis project aim is to provide a detailed analysis of sales performance of a retail store data using Excel, Power Bi and SQL.               
 Tools used
